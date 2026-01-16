@@ -99,6 +99,10 @@ A C# desktop application with a GUI frontend and normalized SQL backend. Perfect
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/shane13447/shane13447/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ## What I'm Looking For
