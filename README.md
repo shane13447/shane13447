@@ -79,30 +79,6 @@ A C# desktop application with a GUI frontend and normalized SQL backend. Perfect
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shane13447&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shane13447&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shane13447&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shane13447&theme=discord&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
 ## Experience
 
 | Role | Organization | When |
@@ -114,6 +90,14 @@ A C# desktop application with a GUI frontend and normalized SQL backend. Perfect
 - Rolled out Windows 11 to more labs than I can count
 - 3D printed custom hardware parts to save equipment from the e-waste bin
 - Researched Belief Propagation algorithms and somehow didn't lose my mind
+
+---
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shane13447&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
