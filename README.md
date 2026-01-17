@@ -1,6 +1,6 @@
 Hey there! I'm Shane Doherty
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vspace=true&width=435&lines=Software+Engineering+Student+%40+QUB;Full+Stack+%26+Mobile+Developer;AI+Enthusiast+%26+Tinkerer;Currently+teaching+LLMs+to+be+gym+bros)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vspace=true&width=500&lines=Software+Engineering+Student+%40+QUB;Full+Stack+%26+Mobile+Developer;AI+Enthusiast+%26+Tinkerer;Currently+teaching+LLMs+to+be+gym+bros)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shane13447&color=6C63FF&style=flat-square" alt="Profile Views"/>
