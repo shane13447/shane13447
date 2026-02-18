@@ -1,4 +1,4 @@
-Hey there! I'm Shane Doherty
+# Hey there! I'm Shane Doherty
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vspace=true&width=500&lines=Software+Engineering+Student+%40+QUB;Full+Stack+%26+Mobile+Developer;AI+Enthusiast+%26+Tinkerer;Currently+teaching+LLMs+to+be+gym+bros)](https://git.io/typing-svg)
 
@@ -13,8 +13,8 @@ I'm a Software Engineering student at **Queen's University Belfast** (on track f
 When I'm not wrestling with TypeScript types or convincing LLMs to stop hallucinating, you'll find me getting choked out at BJJ practice or managing my over-engineered home server setup that definitely doesn't need that much RAM.
 
 - Currently building: **An AI fitness coach that runs entirely on your phone** (no cloud, no excuses)
-- Day job: **IT Technician @ QUB** – I fix computers and occasionally 3D print replacement parts because why not
-- Research background: **Belief Propagation algorithms** – as fun as it sounds
+- Day job: **IT Technician @ QUB** — I fix computers and occasionally 3D print replacement parts because why not
+- Research background: **Belief Propagation algorithms** — as fun as it sounds
 - Off-hours: Strategy gaming, BJJ, and adding more drives to my home lab
 - Fuel: Questionable amounts of coffee
 
@@ -48,7 +48,7 @@ When I'm not wrestling with TypeScript types or convincing LLMs to stop hallucin
 ## Featured Projects
 
 ### Edge-AI Fitness Tracker | *"IronLogic"*
-> Teaching a 3B parameter LLM to be your gym bro – entirely offline
+> Teaching a 3B parameter LLM to be your gym bro — entirely offline
 
 My proudest creation. A React Native fitness app with an on-device AI coach powered by Llama 3.2 via Executorch. No internet? No problem.
 
@@ -95,13 +95,11 @@ A C# desktop application with a GUI frontend and normalized SQL backend. Perfect
 ---
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shane13447&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=shane13447&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/shane13447/shane13447/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shane13447/shane13447/output/github-contribution-grid-snake-dark.svg?v=2" alt="Snake animation" />
 </p>
 
 ---
