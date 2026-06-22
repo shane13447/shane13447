@@ -1,6 +1,6 @@
 # Hey there! I'm Shane Doherty
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=38BDF8&center=true&vspace=true&width=520&lines=Software+Engineer+%40+Belfast;Mobile+%2B+Full-Stack+%2B+On-Device+AI;Final-year+BEng+%40+QUB+%28First+Class+track%29;Teaching+LLMs+to+behave+offline)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=38BDF8&center=true&vspace=true&width=520&lines=Software+Engineer+%40+Belfast;Mobile+%2B+Full-Stack+%2B+On-Device+AI;Final-year+BEng+%40+QUB+%28First+Class+Honours%29;Teaching+LLMs+to+behave+offline)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://shane13447.github.io"><img src="https://img.shields.io/badge/Portfolio-shane13447.github.io-38BDF8?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a final-year **Software Engineering** student at **Queen's University Belfast** (on track for First Class Honours) who builds mobile, full-stack, and on-device AI software — and an IT technician who keeps 200+ machines alive on the side.
+I'm a final-year **Software Engineering** student at **Queen's University Belfast** (First Class Honours) who builds mobile, full-stack, and on-device AI software — and an IT technician who keeps 200+ machines alive on the side.
 
 - 🔭 **Building:** on-device AI — quantised LLMs running locally, token-efficient protocols, and pipelines that keep models honest
 - 🛠️ **Day job:** IT Technician @ QUB — Windows deployments, hardware troubleshooting, the occasional 3D-printed replacement part
