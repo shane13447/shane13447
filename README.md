@@ -1,22 +1,23 @@
 # Hey there! I'm Shane Doherty
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vspace=true&width=500&lines=Software+Engineering+Student+%40+QUB;Full+Stack+%26+Mobile+Developer;AI+Enthusiast+%26+Tinkerer;Currently+teaching+LLMs+to+be+gym+bros)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=38BDF8&center=true&vspace=true&width=520&lines=Software+Engineer+%40+Belfast;Mobile+%2B+Full-Stack+%2B+On-Device+AI;Final-year+BEng+%40+QUB+%28First+Class+track%29;Teaching+LLMs+to+behave+offline)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shane13447&color=6C63FF&style=flat-square" alt="Profile Views"/>
+  <a href="https://shane13447.github.io"><img src="https://img.shields.io/badge/Portfolio-shane13447.github.io-38BDF8?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/shane-doherty-shorts/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shanedort13447@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=shane13447&color=38BDF8&style=flat-square" alt="Profile Views"/>
 </p>
 
 ## About Me
 
-I'm a Software Engineering student at **Queen's University Belfast** (on track for First Class Honours) who loves building things that actually work... most of the time.
+I'm a final-year **Software Engineering** student at **Queen's University Belfast** (on track for First Class Honours) who builds mobile, full-stack, and on-device AI software — and an IT technician who keeps 200+ machines alive on the side.
 
-When I'm not wrestling with TypeScript types or convincing LLMs to stop hallucinating, you'll find me getting choked out at BJJ practice or managing my over-engineered home server setup that definitely doesn't need that much RAM.
-
-- Currently building: **An AI fitness coach that runs entirely on your phone** (no cloud, no excuses)
-- Day job: **IT Technician @ QUB** — I fix computers and occasionally 3D print replacement parts because why not
-- Research background: **Belief Propagation algorithms** — as fun as it sounds
-- Off-hours: Strategy gaming, BJJ, and adding more drives to my home lab
-- Fuel: Questionable amounts of coffee
+- 🔭 **Building:** on-device AI — quantised LLMs running locally, token-efficient protocols, and pipelines that keep models honest
+- 🛠️ **Day job:** IT Technician @ QUB — Windows deployments, hardware troubleshooting, the occasional 3D-printed replacement part
+- 🧪 **Research background:** belief-propagation algorithms (summer research intern)
+- 🥋 **Off-hours:** BJJ, chess, and an over-engineered home lab
+- 📫 **Portfolio:** [shane13447.github.io](https://shane13447.github.io)
 
 ---
 
@@ -24,59 +25,54 @@ When I'm not wrestling with TypeScript types or convincing LLMs to stop hallucin
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frameworks & Tools
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### AI & DevOps
-![Llama](https://img.shields.io/badge/Llama_3.2-6C63FF?style=for-the-badge&logo=meta&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama_3.2-38BDF8?style=for-the-badge&logo=meta&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### Edge-AI Fitness Tracker | *"IronLogic"*
-> Teaching a 3B parameter LLM to be your gym bro — entirely offline
-
-My proudest creation. A React Native fitness app with an on-device AI coach powered by Llama 3.2 via Executorch. No internet? No problem.
-
-**Highlights:**
-- Custom **TOON protocol** for token-optimized communication (because context windows aren't cheap)
-- Deterministic repair pipeline to stop the AI from making up exercises that don't exist
-- SQLite relational database (migrated from the "just save it as JSON" era)
-- Full Jest test suite because I've been hurt before
+### 🏋️ IronLogic — on-device AI fitness coach
+An offline-first React Native fitness tracker with an AI coach powered by **Llama 3.2 running entirely on-device** via Executorch — no cloud round-trips. A deterministic repair pipeline (parsing, fuzzy-matching, rules) keeps the model from inventing exercises, and the data layer migrated from flat files to relational SQLite. **40 test suites, 930 passing tests.**
 
 `React Native` `TypeScript` `Expo` `SQLite` `Llama 3.2` `Executorch`
+→ [github.com/shane13447/IronLogic](https://github.com/shane13447/IronLogic)
 
----
+### ☁️ Cloud Performance Platform · *live on AWS*
+A full-stack employee-performance platform: **FastAPI on Lambda**, Aurora Serverless v2 Postgres, a React + MUI PWA, **Terraform** IaC, JWT/RBAC auth, and an audited change-request approval workflow with an analytics dashboard. *(Private repo.)*
 
-### Library Management System
-> OOP done right (according to my professor)
+`Python` `FastAPI` `React` `Terraform` `AWS Lambda` `PostgreSQL`
 
-A Java-based inventory system for borrowing, returning, and searching books. Includes extensive black-box testing because I don't trust my own code.
+### 🎧 Spotify Liked-Songs Mirror
+A small, finished bot that mirrors private Liked Songs into a public playlist every hour via GitHub Actions — OAuth refresh-token auth, paginated ingestion, dedup, batched updates, and retry/recovery.
 
-`Java` `OOP` `Unit Testing`
+`TypeScript` `Node.js` `Spotify API` `OAuth` `GitHub Actions`
+→ [github.com/shane13447/SpotifyLikedSongsMirrorBot](https://github.com/shane13447/SpotifyLikedSongsMirrorBot)
 
----
+### 🤖 Hermes — voice-first desktop assistant
+A safety-first Windows assistant: local speech-to-text → DeepSeek reasoning → typed tool requests **behind an approval gate** → audited desktop control. Clear boundary between reasoning and action.
 
-### Inventory Data Manager
-> CRUD operations, but make it aesthetic
+`Python` `DeepSeek` `LLM tool-use` `Speech-to-text`
+→ [github.com/shane13447/PersonalAssistant](https://github.com/shane13447/PersonalAssistant)
 
-A C# desktop application with a GUI frontend and normalized SQL backend. Perfect for when you need to extract, store, and manipulate data without losing your sanity.
-
-`C#` `.NET` `SQL` `Windows Forms`
+> More on the [portfolio](https://shane13447.github.io) — including DishDecider (AI meal planner) and SpeechToTextLocal (offline dictation).
 
 ---
 
@@ -84,18 +80,13 @@ A C# desktop application with a GUI frontend and normalized SQL backend. Perfect
 
 | Role | Organization | When |
 |------|--------------|------|
-| IT Technician | Queen's University Belfast | Aug 2024 – Present |
+| IT Technician — EEECS | Queen's University Belfast | Aug 2024 – Present |
 | Summer Research Intern | Queen's University Belfast | Jun 2023 – Aug 2023 |
-
-**Fun facts from work:**
-- Rolled out Windows 11 to more labs than I can count
-- 3D printed custom hardware parts to save equipment from the e-waste bin
-- Researched Belief Propagation algorithms and somehow didn't lose my mind
 
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shane13447&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=shane13447&theme=tokyonight&hide_border=true&background=0A0F16&ring=38BDF8&fire=A3E635&currStreakLabel=38BDF8&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -106,24 +97,6 @@ A C# desktop application with a GUI frontend and normalized SQL backend. Perfect
 
 ## What I'm Looking For
 
-I'm hunting for a **technical role** where I can:
-- Build cool stuff with modern tech stacks
-- Solve problems that actually matter
-- Work with people who know that "it works on my machine" isn't a valid deployment strategy
+I'm graduating in 2026 and looking for a **software engineering role** — mobile, full-stack, or AI-adjacent — where I can build things that hold up in the real world and work with people who care about getting it right.
 
----
-
-## Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shane-doherty-shorts/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanedort13447@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
-<p align="center">
-  <i>Thanks for stopping by!</i>
-</p>
+<p align="center"><i>Thanks for stopping by! → <a href="https://shane13447.github.io">shane13447.github.io</a></i></p>
