@@ -50,7 +50,7 @@ I'm a final-year **Software Engineering** student at **Queen's University Belfas
 ## Featured Projects
 
 ### 🏋️ IronLogic — on-device AI fitness coach
-An offline-first React Native fitness tracker with an AI coach powered by **Llama 3.2 running entirely on-device** via Executorch — no cloud round-trips. A deterministic repair pipeline (parsing, fuzzy-matching, rules) keeps the model from inventing exercises, and the data layer migrated from flat files to relational SQLite. **40 test suites, 930 passing tests.**
+An offline-first React Native fitness tracker with an AI coach powered by **Llama 3.2 running entirely on-device** via Executorch — no cloud round-trips. A deterministic repair pipeline (parsing, fuzzy-matching, rules) keeps the model from inventing exercises, and the data layer migrated from flat files to relational SQLite. **40 test suites, 762 passing tests.**
 
 `React Native` `TypeScript` `Expo` `SQLite` `Llama 3.2` `Executorch`
 → [github.com/shane13447/IronLogic](https://github.com/shane13447/IronLogic)
