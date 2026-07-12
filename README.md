@@ -1,6 +1,6 @@
 # Hey there! I'm Shane Doherty
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=38BDF8&center=true&vspace=true&width=520&lines=Software+Engineer+%40+Belfast;Mobile+%2B+Full-Stack+%2B+On-Device+AI;Final-year+BEng+%40+QUB+%28First+Class+Honours%29;Teaching+LLMs+to+behave+offline)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=38BDF8&center=true&vspace=true&width=520&lines=Software+Engineer+%40+Belfast;Mobile+%2B+Full-Stack+%2B+On-Device+AI;BEng+Software+Engineering+%40+QUB+-+First+Class+Honours;Teaching+LLMs+to+behave+offline)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://shane13447.github.io"><img src="https://img.shields.io/badge/Portfolio-shane13447.github.io-38BDF8?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a final-year **Software Engineering** student at **Queen's University Belfast** (First Class Honours) who builds mobile, full-stack, and on-device AI software — and an IT technician who keeps 200+ machines alive on the side.
+I'm a **Software Engineer** — BEng Software Engineering, **Queen's University Belfast** (First Class Honours, 2026) — who builds mobile, full-stack, and on-device AI software, and an IT technician who keeps 200+ machines alive on the side.
 
 - 🔭 **Building:** on-device AI — quantised LLMs running locally, token-efficient protocols, and pipelines that keep models honest
 - 🛠️ **Day job:** IT Technician @ QUB — Windows deployments, hardware troubleshooting, the occasional 3D-printed replacement part
@@ -27,7 +27,6 @@ I'm a final-year **Software Engineering** student at **Queen's University Belfas
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -37,6 +36,7 @@ I'm a final-year **Software Engineering** student at **Queen's University Belfas
 ![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### AI & DevOps
@@ -45,18 +45,38 @@ I'm a final-year **Software Engineering** student at **Queen's University Belfas
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+### Also Worked With
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) <sub>coursework & small utilities — no featured project yet</sub>
+
 ---
 
 ## Featured Projects
 
 ### 🏋️ IronLogic — on-device AI fitness coach
-An offline-first React Native fitness tracker with an AI coach powered by **Llama 3.2 running entirely on-device** via Executorch — no cloud round-trips. A deterministic repair pipeline (parsing, fuzzy-matching, rules) keeps the model from inventing exercises, and the data layer migrated from flat files to relational SQLite. **40 test suites, 762 passing tests.**
+An offline-first React Native fitness tracker with an AI coach powered by **Llama 3.2 running entirely on-device** via Executorch — no cloud round-trips. A deterministic repair pipeline (parsing, fuzzy-matching, rules) keeps the model from inventing exercises, and the data layer migrated from flat files to relational SQLite, backed by a broad Jest test suite.
 
 `React Native` `TypeScript` `Expo` `SQLite` `Llama 3.2` `Executorch`
 → [github.com/shane13447/IronLogic](https://github.com/shane13447/IronLogic)
 
-### ☁️ Cloud Performance Platform · *live on AWS*
-A full-stack employee-performance platform: **FastAPI on Lambda**, Aurora Serverless v2 Postgres, a React + MUI PWA, **Terraform** IaC, JWT/RBAC auth, and an audited change-request approval workflow with an analytics dashboard. *(Private repo.)*
+### 💾 DiskExtractor *(private)*
+A C#/.NET tool for safely rescuing personal files off old and failing disks — finds, reviews, verifies, and extracts data without losing anything to a bad sector along the way.
+
+`C#` `.NET` `File Recovery`
+
+### 🎬 jellyfin-desktop-qt — native Jellyfin desktop client
+A native **C++/Qt** desktop client for Jellyfin, built with CMake — a proper desktop app rather than a wrapped web view.
+
+`C++` `Qt` `CMake` `Desktop`
+→ [github.com/shane13447/jellyfin-desktop-qt](https://github.com/shane13447/jellyfin-desktop-qt)
+
+### 🎙️ SpeechToTextLocal — fully offline dictation
+A global hotkey records audio, **whisper.cpp** transcribes it locally, an **Ollama** model cleans up the text, and the result gets pasted straight into the active window. No cloud, no API keys.
+
+`Python` `whisper.cpp` `Ollama` `Local AI`
+→ [github.com/shane13447/SpeechToTextLocal](https://github.com/shane13447/SpeechToTextLocal)
+
+### ☁️ Cloud Performance Platform *(private)* · live on AWS
+A full-stack employee-performance platform: **FastAPI on Lambda**, Aurora Serverless v2 Postgres, a React + MUI PWA, **Terraform** IaC, JWT/RBAC auth, and an audited change-request approval workflow with an analytics dashboard.
 
 `Python` `FastAPI` `React` `Terraform` `AWS Lambda` `PostgreSQL`
 
@@ -72,7 +92,7 @@ A safety-first Windows assistant: local speech-to-text → DeepSeek reasoning �
 `Python` `DeepSeek` `LLM tool-use` `Speech-to-text`
 → [github.com/shane13447/PersonalAssistant](https://github.com/shane13447/PersonalAssistant)
 
-> More on the [portfolio](https://shane13447.github.io) — including DishDecider (AI meal planner) and SpeechToTextLocal (offline dictation).
+> More on the [portfolio](https://shane13447.github.io) — including DishDecider, an AI meal-planning app *(private)*.
 
 ---
 
@@ -86,6 +106,11 @@ A safety-first Windows assistant: local speech-to-text → DeepSeek reasoning �
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shane13447&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F16&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shane13447&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F16&title_color=38BDF8&text_color=C9D1D9&cache_seconds=1800" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=shane13447&theme=tokyonight&hide_border=true&background=0A0F16&ring=38BDF8&fire=A3E635&currStreakLabel=38BDF8&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
@@ -97,6 +122,6 @@ A safety-first Windows assistant: local speech-to-text → DeepSeek reasoning �
 
 ## What I'm Looking For
 
-I'm graduating in 2026 and looking for a **software engineering role** — mobile, full-stack, or AI-adjacent — where I can build things that hold up in the real world and work with people who care about getting it right.
+I graduated in 2026 with a First Class Honours BEng in Software Engineering and I'm looking for a **graduate software engineering role** — mobile, full-stack, or AI-adjacent — based in **Belfast or remote**. I want to build things that hold up in the real world, with people who care about getting it right.
 
 <p align="center"><i>Thanks for stopping by! → <a href="https://shane13447.github.io">shane13447.github.io</a></i></p>
