@@ -63,11 +63,11 @@ A C#/.NET tool for safely rescuing personal files off old and failing disks — 
 
 `C#` `.NET` `File Recovery`
 
-### 🎬 jellyfin-desktop-qt — native Jellyfin desktop client
-A native **C++/Qt** desktop client for Jellyfin, built with CMake — a proper desktop app rather than a wrapped web view.
+### 🎬 jellyfin-desktop-qt — SDL gamepad support for a Jellyfin client
+Fork of the (now-archived) Qt/C++ Jellyfin desktop client. Added SDL gamepad focus-gating and a keyboard-remap fix for couch/living-room use, plus CI build fixes — see branch `sdl-focus-gate`.
 
-`C++` `Qt` `CMake` `Desktop`
-→ [github.com/shane13447/jellyfin-desktop-qt](https://github.com/shane13447/jellyfin-desktop-qt)
+`C++` `Qt` `SDL` `CMake`
+→ [github.com/shane13447/jellyfin-desktop-qt/tree/sdl-focus-gate](https://github.com/shane13447/jellyfin-desktop-qt/tree/sdl-focus-gate)
 
 ### 🎙️ SpeechToTextLocal — fully offline dictation
 A global hotkey records audio, **whisper.cpp** transcribes it locally, an **Ollama** model cleans up the text, and the result gets pasted straight into the active window. No cloud, no API keys.
@@ -105,10 +105,7 @@ A safety-first Windows assistant: local speech-to-text → DeepSeek reasoning �
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shane13447&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F16&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shane13447&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F16&title_color=38BDF8&text_color=C9D1D9&cache_seconds=1800" alt="Top Languages" height="165" />
-</p>
+<!-- github-readme-stats cards removed while the shared vercel instance is down; consider self-hosting before re-adding -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shane13447&theme=tokyonight&hide_border=true&background=0A0F16&ring=38BDF8&fire=A3E635&currStreakLabel=38BDF8&cache_seconds=1800" alt="GitHub Streak" />
